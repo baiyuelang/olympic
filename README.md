@@ -1,11 +1,10 @@
 
 # Objective
-According to the data of previous Olympic Games, including the sex, height, weight, nationality of competitors, competition items and medals, our task is to predict the results of the Tokyo Olympic Games in 2020 based on the given data.
+According to the data of previous Olympic Games, including the sex, height, weight, nationality of competitors, competition items and medals, our task is to predict the results of USA team in the Tokyo Olympic Games in 2020 based on the given data.
 
 # Motivation
 It is useful for countries and spectators who like to watch games to predict the future outcomes. More spectators are more willing to buy tickets to support competitions that can win their own national medals and competitions that their national teams can win.
 
-There will also be many small events in big events, and the predicted results will also help athletes to participate in more likely medal-winning competitions.
 
 # Datasets
 [Olympic](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results/downloads/120-years-of-olympic-history-athletes-and-results.zip/2#athlete_events.csv)
